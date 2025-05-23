@@ -1,7 +1,7 @@
 <template>
   <UApp>
     <div>
-      <Button />
+      <MyButton />
       <!-- <NuxtRouteAnnouncer />
     <NuxtWelcome /> -->
     </div>
