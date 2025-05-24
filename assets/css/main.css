@@ -2,19 +2,16 @@
 @import "@nuxt/ui";
 
 @theme static {
-  --font-sans: "Public Sans", sans-serif;
+  --font-sans: "Manrope", sans-serif;
 
   --breakpoint-3xl: 1920px;
 
-  --color-primary: #D87D4A;
-  --color-green-100: #d9fbe8;
-  --color-green-200: #b3f5d1;
-  --color-green-300: #75edae;
-  --color-green-400: #00dc82;
-  --color-green-500: #00c16a;
-  --color-green-600: #00a155;
-  --color-green-700: #007f45;
-  --color-green-800: #016538;
-  --color-green-900: #0a5331;
-  --color-green-950: #052e16;
+  --color-button: #D87D4A;
+  --color-bg-black: #101010;
+  --color-bg-gray: #F1F1F1;
+  --color-bg-light-gray: #FAFAFA;
+  --color-button-hover: #fbaf85;
+  --color-button2: #FFFFFF;
+  --color-button2-hover: #000000;
+  --color-error: #CD2C2C;
 }
