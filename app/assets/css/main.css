@@ -4,8 +4,6 @@
 @theme static {
   --font-sans: "Manrope", sans-serif;
 
-  --breakpoint-3xl: 1920px;
-
   --color-button: #D87D4A;
   --color-bg-black: #101010;
   --color-bg-gray: #F1F1F1;
